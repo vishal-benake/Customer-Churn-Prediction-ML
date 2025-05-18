@@ -1,13 +1,7 @@
-# Customer-Churn-Prediction-ML  ![License](https://img.shields.io/badge/License-MIT-blue.svg)
+# Customer-Churn-Prediction-ML 
 
   ●  Performed EDA, train-test split, and PCA, trained Decision Tree and Random Forest models.
   ●  Achieved 94% accuracy with Random Forest, saved model for future deployment.
-
-
-## License
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-
-This project is licensed under the MIT License.
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="20" height="20"> Youtube
 <h4>If you like, do follow me on Youtube</h4>
